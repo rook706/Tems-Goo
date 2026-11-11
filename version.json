@@ -1,7 +1,1 @@
-{
-  "app": "Tems Goo",
-  "version": "1.0.1",
-  "download_url": "https://github.com/rook706/Tems-Goo/releases/download/v1.0.1/Tems-Goo-Setup.exe",
-  "release_notes": "First public release with improved update security.",
-  "sha256": "C171189E483D4AAE164695EFB9A9737727C2350C9037E8060983062CC3B42AE6"
-}
+{"app":"Tems Goo","version":"1.0.1","download_url":"https://github.com/rook706/Tems-Goo/releases/download/v1.0.1/Tems-Goo-Setup.exe","release_notes":"First public release with improved update security.","sha256":"C171189E483D4AAE164695EFB9A9737727C2350C9037E8060983062CC3B42AE6"}
